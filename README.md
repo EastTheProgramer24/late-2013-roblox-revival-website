@@ -1,0 +1,1 @@
+This website is for the late 2013 client. You only need to put the files in xampp or any other localhost program thing. Also Revival.7z contains a program that I created with the late 2013 client and RCCService and everything eles should be easy.
